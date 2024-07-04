@@ -1,0 +1,17 @@
+.top-content  h1 {
+    color: black;
+    font-weight: 100;
+}
+.top-content  h1 span {
+    color: #674CF7;
+    font-weight: 700;
+}
+
+.top_row img{
+width: 17%;
+}
+
+.top_row p{
+    margin-top: 15px;
+    font-size: 14px;
+}
